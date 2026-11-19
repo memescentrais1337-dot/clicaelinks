@@ -1,0 +1,44 @@
+{
+  "rewrites": [
+    {
+      "source": "/clicaebio",
+      "destination": "https://clicae-bio-ten.vercel.app/"
+    },
+    {
+      "source": "/clicaebio/:path*",
+      "destination": "https://clicae-bio-ten.vercel.app/:path*"
+    },
+    {
+      "source": "/tourosburguer",
+      "destination": "https://touros-burguer.vercel.app/"
+    },
+    {
+      "source": "/tourosburguer/:path*",
+      "destination": "https://touros-burguer.vercel.app/:path*"
+    },
+    {
+      "source": "/cnn",
+      "destination": "https://capoeira-nossa-na-oooo.vercel.app/"
+    },
+    {
+      "source": "/cnn/:path*",
+      "destination": "https://capoeira-nossa-na-oooo.vercel.app/:path*"
+    },
+    {
+      "source": "/onze",
+      "destination": "https://onze-links.vercel.app/"
+    },
+    {
+      "source": "/onze/:path*",
+      "destination": "https://onze-links.vercel.app/:path*"
+    },
+    {
+      "source": "/site",
+      "destination": "https://clicae.app.vercel.com/"
+    },
+    {
+      "source": "/site/:path*",
+      "destination": "https://clicae.app.vercel.com/:path*"
+    }
+  ]
+}
